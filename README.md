@@ -118,12 +118,12 @@ This project highlights the transformative potential of AI in prompt engineering
 ---
 
 ## Team Members
-- **Abdullah Imran:**
-- **Kamogelo Tele:**
-- **John Syllah:**
-- **Rajyavardhan Chauhan:**
-- **Kuntal Tarwatkar:**
-- **Allam Sridhar:**
-- **Ravi Teja Bhukya:**
+- **Abdullah Imran (Main Technical Guide)**
+- **Kamogelo Tele**
+- **John Syllah**
+- **Rajyavardhan Chauhan**
+- **Kuntal Tarwatkar**
+- **Allam Sridhar**
+- **Ravi Teja Bhukya**
 
 ---
