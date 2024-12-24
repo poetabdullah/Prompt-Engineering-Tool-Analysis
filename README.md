@@ -1,7 +1,3 @@
-Here's a thorough README for your GitHub repository:
-
----
-
 # Prompt Engineering Tool Analysis
 
 This repository contains the comprehensive findings and deliverables of Team 3A's **Prompt Engineering Internship**, conducted under the Excelerate program. The goal of this project was to explore and compare the capabilities of **ChatGPT** (OpenAI) and **Gemini** (Google DeepMind) across various use cases, evaluate their strengths and weaknesses, and provide actionable recommendations for effective prompt engineering.
@@ -131,5 +127,3 @@ This project highlights the transformative potential of AI in prompt engineering
 - **Ravi Teja Bhukya:** [ravitejabhukya35@gmail.com](mailto:ravitejabhukya35@gmail.com)
 
 ---
-
-Feel free to use or adapt this README. Let me know if you'd like any edits!
