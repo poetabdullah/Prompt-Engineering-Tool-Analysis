@@ -118,12 +118,12 @@ This project highlights the transformative potential of AI in prompt engineering
 ---
 
 ## Team Members
-- **Abdullah Imran:** [abdullahimranarshad@gmail.com](mailto:abdullahimranarshad@gmail.com)
-- **Kamogelo Tele:** [kamogelotele@gmail.com](mailto:kamogelotele@gmail.com)
-- **John Syllah:** [johnsyllah2003@gmail.com](mailto:johnsyllah2003@gmail.com)
-- **Rajyavardhan Chauhan:** [rajyavardhanchauhan01@gmail.com](mailto:rajyavardhanchauhan01@gmail.com)
-- **Kuntal Tarwatkar:** [tarwatkark63@gmail.com](mailto:tarwatkark63@gmail.com)
-- **Allam Sridhar:** [allamsridhar2001@gmail.com](mailto:allamsridhar2001@gmail.com)
-- **Ravi Teja Bhukya:** [ravitejabhukya35@gmail.com](mailto:ravitejabhukya35@gmail.com)
+- **Abdullah Imran:**
+- **Kamogelo Tele:**
+- **John Syllah:**
+- **Rajyavardhan Chauhan:**
+- **Kuntal Tarwatkar:**
+- **Allam Sridhar:**
+- **Ravi Teja Bhukya:**
 
 ---
